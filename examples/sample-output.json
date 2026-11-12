@@ -1,0 +1,70 @@
+[
+  {
+    "role": "seed",
+    "openalexId": "W3027879771",
+    "doi": "10.48550/arxiv.2005.11401",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandra Piktus",
+      "Fabio Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Küttler",
+      "Mike Lewis"
+    ],
+    "publicationYear": 2020,
+    "publishedAt": "2020-05-22",
+    "venue": "arXiv (Cornell University)",
+    "citedByCount": 6188,
+    "type": "preprint",
+    "openAccessUrl": "https://arxiv.org/pdf/2005.11401",
+    "abstract": "Large pre-trained language models have been shown to store factual knowledge in their parameters, and achieve state-of-the-art results when fine-tuned on downstream NLP tasks. However, their ability to access and precisely manipulate knowledge is still limited, and hence on knowledge-intensive tasks, their performance lags behind task-specific architectures. Additionally, providing provenance for their decisions and updating their world knowledge remain open research problems. Pre-trained models with a differentiable access mechanism to explicit non-parametric memory can overcome this issue, b ... [truncated]",
+    "referencedWorksCount": 66,
+    "sourceSeed": "W3027879771",
+    "fetchedAt": "2026-11-12T20:33:48.136Z"
+  },
+  {
+    "role": "cited",
+    "openalexId": "W1793121960",
+    "doi": "10.48550/arxiv.1503.08895",
+    "title": "End-To-End Memory Networks",
+    "authors": [
+      "Sainbayar Sukhbaatar",
+      "Arthur D. Szlam",
+      "Jason Weston",
+      "Rob Fergus"
+    ],
+    "publicationYear": 2015,
+    "publishedAt": "2015-03-31",
+    "venue": "arXiv (Cornell University)",
+    "citedByCount": 1553,
+    "type": "preprint",
+    "openAccessUrl": "https://arxiv.org/pdf/1503.08895",
+    "abstract": "We introduce a neural network with a recurrent attention model over a possibly large external memory. The architecture is a form of Memory Network (Weston et al., 2015) but unlike the model in that work, it is trained end-to-end, and hence requires significantly less supervision during training, making it more generally applicable in realistic settings. It can also be seen as an extension of RNNsearch to the case where multiple computational steps (hops) are performed per output symbol. The flexibility of the model allows us to apply it to tasks as diverse as (synthetic) question answering and ... [truncated]",
+    "referencedWorksCount": 25,
+    "sourceSeed": "W3027879771",
+    "fetchedAt": "2026-11-12T20:33:48.299Z"
+  },
+  {
+    "role": "cited",
+    "openalexId": "W1801866228",
+    "doi": "10.1007/978-3-319-24027-5_20",
+    "title": "Modeling of the Question Answering Task in the YodaQA System",
+    "authors": [
+      "Petr Baudiš",
+      "Jan Šedivý"
+    ],
+    "publicationYear": 2015,
+    "publishedAt": "2015-01-01",
+    "venue": "Lecture notes in computer science",
+    "citedByCount": 151,
+    "type": "conference-paper",
+    "openAccessUrl": null,
+    "abstract": null,
+    "referencedWorksCount": 20,
+    "sourceSeed": "W3027879771",
+    "fetchedAt": "2026-11-12T20:33:48.402Z"
+  }
+]
